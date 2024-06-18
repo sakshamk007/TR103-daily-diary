@@ -23,18 +23,18 @@
 ### 10. .env
 
 ## 2. packages 
-1. joi - input validation
-1. joi password complexity
-1. config/rc - for configration
+1. joi - powerful schema design and input validation
+1. joi password complexity - specifies password (lowercase, uppercase, min, max, special char) 
+1. config/rc - for configration and defining defaults (see default.json and prodcution.json in /config)
 1. debug - console.log replacement
-1. .env 
-1. module_alias
-1. loadash
-1. express async errors
-1. winston
-1. compression 
-1. json web tokens 
-1. mongoose 
+1. .env - loads environment variables from .env to process.env
+1. module_alias - helps to create alias of directories and register custom module paths (using @)
+1. lodash - eases usage of arrays, objects, strings
+1. express async errors - error handling 
+1. winston - used for creating your own logger in local location 
+1. compression - response body compression
+1. json web tokens - used for sending encrypted payload(data) in form of tokens 
+1. mongoose - ODM(Object Data Modelling) for MongoDb (used for creating schmemas)
 
 
 
