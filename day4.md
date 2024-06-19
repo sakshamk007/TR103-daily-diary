@@ -9,18 +9,19 @@
 1. database
 1. helper
 1. middleware
-1. config
 1. startup
 1. utils
-### 2. public
-### 3. src
-### 4. package.json
-### 5. package-lock.json
-### 6. app.js
-### 7. index.html
-### 8. node_modules
-### 9. readme.md
-### 10. .env
+### 2. config
+### 3. log
+### 4. public
+### 5. src
+### 6. package.json
+### 7. package-lock.json
+### 8. app.js
+### 9. index.html
+### 10. node_modules
+### 11. readme.md
+### 12. .env
 
 ## 2. packages 
 1. joi - powerful schema design and input validation
